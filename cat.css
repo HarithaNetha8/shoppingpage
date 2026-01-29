@@ -1,0 +1,57 @@
+.card {
+     display:flex;
+     justify-content: space-between;
+     align-items: center;
+
+}
+
+.catalog 
+{
+      flex:1;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      grid-gap: 1rem;
+      padding:5px;
+      border:none;
+      border-radius:10px;
+    }
+    
+    .products
+     {
+      display:flex;
+      flex-direction :column;
+      align-items: center;
+      justify-content: space-between;
+      margin:1rem;
+      background-color:#ffffff;
+
+    }
+    
+    .products img
+     {
+      width: 70%;
+      height: 70%;
+    }
+    
+    .products p {
+     font-weight:600;
+    }
+    
+    .products button 
+    {
+      background-color: #007bff;
+      color: #fff;
+      margin:1rem;
+      border: none;
+      border-radius: 10px;
+      padding: 0.5rem;
+      cursor: pointer;
+      align-items: center;
+    
+    }
+    
+    .products button:hover
+     {
+      color:rgba(5, 5, 5, 0.946);
+      background-color: cornflowerblue;
+    }
