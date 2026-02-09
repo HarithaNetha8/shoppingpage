@@ -55,9 +55,16 @@ These files are used to style different pages and components of the application.
 
 ---
 
+output
+
 ## 📚 What I Learned
 
 Through this project, I gained hands-on experience in:
+<img width="1360" height="707" alt="Screenshot 2024-05-03 112548" src="https://github.com/user-attachments/assets/136d4c0f-0ece-41bc-b0e3-9658c323229f" />
+<img width="1358" height=<img width="1362" height="514" alt="Screenshot 2024-05-03 113032" src="https://github.com/user-attachments/assets/f4ae4ac2-166b-4f7c-a648-9fd0a415a7b8" />
+"705" alt="Screenshot 2024-05-03 1129<img width="1362" height="717" alt="Screenshot 2024-05-03 113055" src="https://github.com/user-attachments/assets/fde8a490-e3a1-49dc-9350-f0ed8fd1914b" />
+<img width="1362" height="717" alt="Screenshot 2024-05-03 113055" src="https://github.com/user-attachments/assets/3e4dd2b6-79d3-4278-af43-298770c520fd" />
+29" src="https://github.com/user-attachments/assets/e1ae1137-af60-4bb3-969f-8b9e9820c9fd" />
 
 * Structuring web pages using HTML
 * Styling pages with CSS
