@@ -1,5 +1,4 @@
 # 🛒 Shopping Page – Frontend Web Project
-
 ## 📌 Project Overview
 
 This project is a **simple Shopping Page frontend application** built using **HTML, CSS, and JavaScript**.
